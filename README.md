@@ -19,4 +19,15 @@ The only community **by Rust developers, for Rust developers,** and exclusively 
 - This is a Rust community-focused dating hub—other languages are cool, but Rust is our common ground.  
 
 ## ❤️ Why Rust?  
-Because **memory safety is sexy,** and we all love a good **safe abstraction** in our relationships.  
+Because **memory safety is sexy,** and we all love a good **safe abstraction** in our relationships.
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [**didvc**](https://github.com/didvc/didvc) — a little bit about me/vulpes.
+- [**Quants**](https://github.com/DevDating/Quants) — For Quant Traders, Data Scientists, and Engineers.
+- [**Singles.js**](https://github.com/DevDating/Singles.js) — For Singles. For Web Developers. ー The dating hub for single developers | For developers who are single and looking for relationships.
+<!-- END gh-mutual-linking -->
